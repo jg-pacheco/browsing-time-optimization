@@ -95,10 +95,11 @@ levels, starting with the TT surface, where Preview Type is set to TT. We start 
 a full range of possible values for Preview Length (30 - 120 sec) and Match Score (0 - 100)
 design factors. To find optimal values of these factors, a follow-up two-factor central
 composite design was run to fit a second-order response surface model. The experiment intends
-to perform axial conditions with a = ξ 2. In the interest of defining experimental conditions
-with practically convenient levels, they opted for “a” as close (^) ξ 2 as possible, yielding the
+to perform axial conditions with $a = \sqrt{2}$. In the interest of defining experimental conditions
+with practically convenient levels, they opted for $a$ as close to $\sqrt{2}$ as possible, yielding the
 Preview Length and Match Score.
 Contour plots of the fitted response surface are shown in the figure below.
+
 The coefficients table shows that both Preview Length and Match Score are significant. The
 stationary point for this second-order model is located (in coded units) at X 1 = - 4.5156 and
 X 2 = 3.4678. In natural units, this corresponds to the Preview Length of - 60.4668 and Match
@@ -120,14 +121,14 @@ levels as experiment 2, but this time we changed the level of Browsing Time to A
 We start by considering a full range of possible values for Preview Length (30 - 120 sec) and
 Match Score (0 - 100) design factors. To determine the optimal values for the factors, we
 conducted a follow-up two-factor central composite design (CCD) to fit a second-order
-response surface model. The experiment utilized axial conditions with a value of a = (^) ξ 2. To
-define practical experimental conditions, the value of "a" was chosen to be as close to (^) ξ 2 as
+response surface model. The experiment utilized axial conditions with a value of $a = \sqrt{2}$. To
+define practical experimental conditions, the value of $a$ was chosen to be as close to $\sqrt{2}$ as
 possible, resulting in the Preview Length and Match Score values.
 Contour plots of the fitted response surface are shown in the figure below.
 
 
 The stationary point for this second-order model is located (in coded units) at X 1 = - 14.
-and X 2 = 9.3044. In natural units, this corresponds to a Preview Length of - 366.9622 and a
+and X 2 = 9.3044. In natural units, this corresponds to a Preview Length of -366.9622 and a
 Match Score of 375.6545. We noticed that the optimal values for Preview Length and Match
 Score lie outside the acceptable range for the factors. This is likely due to the relationship
 between the factors needing to be fully captured by the model and the response and CCD
@@ -148,8 +149,8 @@ Length and Match Score on the TT response surface. Experiment 2 suggested that t
 Preview Length is somewhere in the vicinity of 65 seconds, and the optimal Match Score is
 somewhere in the vicinity of 75. To find the optimal values of these factors, a follow-up two-
 factor central composite design was run to fit a second-order response surface model. The
-experiment intends to perform axial conditions with a = (^) ξ 2. In the interest of defining
-experimental conditions with practically convenient levels, they opted for “a” as close ξ 2 as
+experiment intends to perform axial conditions with $a = \sqrt{2}$. In the interest of defining
+experimental conditions with practically convenient levels, they opted for $a$ as close to $\sqrt{2}$ as
 possible, yielding the Preview Length and Match Score.
 
 Contour plots of the fitted response surface are shown in the figure below.
@@ -172,8 +173,8 @@ a smaller region to ensure optimal combinations fall within the allowed range.
 
 To determine the optimal values for the factors, a follow-up two-factor CCD was conducted to
 fit a second-order response surface model. The experiment utilized axial conditions with a
-value of a = (^) ξ 2. To define practical experimental conditions, the value of "a" was chosen to
-be as close to ξ 2 as possible, resulting in the Preview Length and Match Score values.
+value of $a = \sqrt{2}$. To define practical experimental conditions, the value of "a" was chosen to
+be as close to $\sqrt{2}$ as possible, resulting in the Preview Length and Match Score values.
 
 Contour plots of the fitted response surface are shown in the figure below.
 
